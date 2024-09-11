@@ -23,7 +23,7 @@ This project is the back end for an e-commerce site. It uses Express.js API and 
 
    ```bash
    DB_NAME='ecommerce_db'
-   DB_USER='your_postgres_username'
+   DB_USER='postgres'
    DB_PASSWORD='your_postgres_password'
    ```
 
